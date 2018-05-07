@@ -1,13 +1,13 @@
-## What is Android ??
+ What is Android ??
 
-   ### Android is a mobile operating system developed by Google, based on a modified version of the Linux kernel and other open source software and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+    Android is a mobile operating system developed by Google, based on a modified version of the Linux kernel and other open source software and designed primarily for touchscreen mobile devices such as smartphones and tablets.
    
    
 ![download](https://user-images.githubusercontent.com/37036783/39697365-56c40590-520e-11e8-9f47-75066ff08def.png)
    
-## Founder of Android ??
+ Founder of Android ??
 
-  ### Android Inc. was founded in Palo Alto, California, in October 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.
+   Android Inc. was founded in Palo Alto, California, in October 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.
 
 ## What are the different Versions of Android ??
 
