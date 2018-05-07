@@ -1,5 +1,6 @@
  What is Android ??
      Android is a mobile operating system developed by Google.
+     
      Android is based on a modified version of the Linux kernel 
    
 ![download](https://user-images.githubusercontent.com/37036783/39697365-56c40590-520e-11e8-9f47-75066ff08def.png)
