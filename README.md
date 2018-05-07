@@ -23,7 +23,7 @@
    
  ## Android - Future or Not ??
 
- Curentlly there is debate going on this topic. However if android is replaced in future it will certainally will be replaced by Fuchsia OS. 
+ Curentlly there is debate going on this topic. However if android is replaced in future it will certainly be replaced by Fuchsia OS. 
  
   ## What is Fuchisa OS ??
  
