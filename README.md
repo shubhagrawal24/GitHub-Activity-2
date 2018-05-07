@@ -2,14 +2,19 @@
 
    ### Android is a mobile operating system developed by Google, based on a modified version of the Linux kernel and other open source software and designed primarily for touchscreen mobile devices such as smartphones and tablets.
    
+   
+![download](https://user-images.githubusercontent.com/37036783/39697365-56c40590-520e-11e8-9f47-75066ff08def.png)
+   
 ## Founder of Android ??
 
   ### Android Inc. was founded in Palo Alto, California, in October 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.
 
 ## What are the different Versions of Android ??
 
-  ### There are many versions of Android. The latest one is Android 8.1 Oreo. Also the new Android Developer preview for "Android P" is now available for some phones. 
-
+  ### There are many versions of Android. The latest one is Android 8.1 Oreo. Also the new Android Developer preview for "Android P" is now available for some phones.
+  
+  ![250px-android_oreo_8 1_screenshot](https://user-images.githubusercontent.com/37036783/39697307-1fec2124-520e-11e8-88b5-9102d9104ae2.png) 
+  
 ## What is Android One ??
 
   ### Android One is a series of smartphones that run the unmodified Android operating system. It is a hardware and software standard created by Google intended to provide a consistent user experience and improved security through frequent updates and Google Play Protect.
