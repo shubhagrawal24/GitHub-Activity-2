@@ -27,5 +27,7 @@
  
   ### Fuchsia is a capability-based operating system currently being developed by Google.
   ### Fuchsia is based on a new microkernel called "Zircon".
- 
- ## More can be explore on this visit  https://www.wired.co.uk/article/google-fuchsia-chrome-os-android-demo
+  
+  ![img_0298](https://user-images.githubusercontent.com/37036783/39697601-0fd36710-520f-11e8-8788-65c10c0a2425.png)
+  
+ ## Read More :-  https://www.wired.co.uk/article/google-fuchsia-chrome-os-android-demo
