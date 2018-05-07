@@ -1,4 +1,4 @@
- What is Android ??
+## What is Android ??
 
     - Android is a mobile operating system developed by Google
     - Android is based on a modified version of the Linux kernel and other open source softwares 
@@ -7,11 +7,11 @@
    
 ![download](https://user-images.githubusercontent.com/37036783/39697365-56c40590-520e-11e8-9f47-75066ff08def.png)
    
- Founder of Android ??
+ ## Who is the Founder of Android ??
 
    Android Inc. was founded in Palo Alto, California, in October 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.
 
-Which is the Latest Version of Android ??
+## Which is the Latest Version of Android ??
 
  The latest version is Android 8.1 Oreo (Also the new Android Developer preview for "Android P" is now available for some phones)
   
