@@ -23,10 +23,10 @@
 
   ### Curentlly there is debate going on this topic. However if android is replaced in future it will certainally will be replaced by Fuchsia OS. 
  
- ## What is Fuchisa OS ??
+  What is Fuchisa OS ??
  
-  ### Fuchsia is a capability-based operating system currently being developed by Google.
-  ### Fuchsia is based on a new microkernel called "Zircon".
+   Fuchsia is a capability-based operating system currently being developed by Google.
+   Fuchsia is based on a new microkernel called "Zircon".
   
   ![img_0298](https://user-images.githubusercontent.com/37036783/39697601-0fd36710-520f-11e8-8788-65c10c0a2425.png)
   
